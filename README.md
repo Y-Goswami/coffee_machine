@@ -1,4 +1,5 @@
-<span style="font-family: 'Lucida Console';">foo</span>
+<span style="font-family: 'Lucida Console';"> </span>
+
 # coffee_machine
 # for testing please use file name test.json and use the same attached 'name.json' template for test case creation 
 
@@ -8,3 +9,5 @@
 # Maximum N beverages are served in parallel.
 # A beverage is served only if all the ingredients are available in terms of quantity.
 # There is an indicator that shows which all ingredients are running low and we can fill them 
+
+</span>
