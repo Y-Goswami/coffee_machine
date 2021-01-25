@@ -1,3 +1,4 @@
+<span style="font-family: 'Lucida Console';">foo</span>
 # coffee_machine
 # for testing please use file name test.json and use the same attached 'name.json' template for test case creation 
 
